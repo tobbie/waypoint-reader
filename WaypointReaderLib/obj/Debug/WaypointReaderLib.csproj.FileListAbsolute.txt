@@ -1,0 +1,4 @@
+c:\users\oluwatobi\documents\visual studio 2013\Projects\GpsSolution\WaypointReaderLib\bin\Debug\WaypointReaderLib.dll
+c:\users\oluwatobi\documents\visual studio 2013\Projects\GpsSolution\WaypointReaderLib\bin\Debug\WaypointReaderLib.pdb
+c:\users\oluwatobi\documents\visual studio 2013\Projects\GpsSolution\WaypointReaderLib\obj\Debug\WaypointReaderLib.dll
+c:\users\oluwatobi\documents\visual studio 2013\Projects\GpsSolution\WaypointReaderLib\obj\Debug\WaypointReaderLib.pdb
